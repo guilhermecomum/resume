@@ -1,0 +1,123 @@
+* Guilherme Guerra de Almeida
+
+Trabalho com tecnologias open source desde 2007. Me sinto motivado
+pelo conceito de compartilhamento de código e conhecimento. Acredito
+que absorver diversos pontos de vista permite melhorar
+significativamente o trabalho, por isso me sinto melhor em ambientes
+multidisciplinares. Acreditar e perseguir essas práticas me
+possibilitou trabalhar em diversos setores da economia. Hoje como
+desenvolvedor Front-end com foco em interface busco novos desafios que
+me permitam contribuir não somente com as minhas skills técnicas mas
+com as experiências e pontos de vista que venho trocando e absorvendo.
+
+** Formação
+- Pedagogia - UFRGS ( Incompleto )
+- Ciência da Computação - Fumec ( Incompleto )
+- Técnico em informática Gerencial pele Colégio e Faculdade COTEMIG
+
+** Experiência Profissional
+
+*** Atualmente (desde Out/2015) - Object Edge (Porto Alegre)
+[[http://www.objectedge.com/][Object Edge]]
+
+HTML, CSS, JavaScript, React, Relay, GraphQL
+
+*** Rent a Local Friend (Jul/2014 - Set/2015) (Rio de Janeiro)
+[[http://rentalocalfriend.com][Rent a Local Friend]]
+
+HTML, CSS, JavaScript, Ruby, Rails
+
+Desenvolvedor Fullstack e minha primeira experiência com startup
+
+*** Engage (OuiShare) - (Porto Alegre / Europa)
+[[http://ouishare.net/en][OuiShare]] - [[http://github.com/OuiShare/OuiShare][Código Fonte]]
+
+HTML, CSS, JavaScript, Ruby, Rails
+
+Foi um único projeto, mas que me abriu portas e me preparou para
+trabalhar na Rent a Local Friend. Minha primeira experiência com Ruby
+on Rails e a oportunidade de trabalhar com uma equipe espalhada pelo
+globo.
+
+*** Gabinete Digital (2011 - 2013) (Porto Alegre)
+O Gabinete Digital foi um canal de participação e diálogo entre governo e sociedade.
+[[https://github.com/gabinetedigital/][Código Fonte]]
+
+HTML, CSS, Wordpress, Python, Flask
+
+Fui responsável por toda a parte visual, desde o layout do site e das
+ferramentas até os banners de divulgação e apresentações. Contribui na
+definição das tecnologias e ferramentas utilizadas tanto em front end
+quanto back end, além de implementar toda a parte front end. Quando
+necessário contribuia com o back-end.
+
+*** memeLab (2011 - 2012) (São Paulo)
+Laboratório de tecnologias interativas.
+
+HTML, CSS, Wordpress
+Foram poucos meses de trabalho remoto na memeLab, mas de muito
+aprendizado. Era responsável pela manutenção e correção de bugs de
+alguns sites que eles desenvolveram, além de instalação e manutenção
+de servidores.
+
+HTML, CSS, Javascript, Python, Django
+
+Essa parceria resultou em novo projeto realizado em 2012 chamado
+Incubadora - Versão final, que é um Teatro Game onde as pessoas
+interagem com o espetáculo através dos seus dispositivos móveis. Fui
+responsável pelo desenvolvimento front end das interfaces mobile e
+desktop.
+
+[[https://github.com/guilhermecomum/incubadora/][Código Fonte]] - [[http://vimeo.com/62461476][Vídeo]]
+
+*** 2008 - 2011 - Megaware Industrial Ltda (Belo Horizonte)
+Fábrica de computadores
+
+Após quatro anos trabalhando em estruturas do governo, eu queria
+conhecer a iniciativa privada. Assim fui trabalhar na fábrica. Tudo
+que havia aprendido com o uso e o trabalho com softwares livres eu
+pude aplicar no desenvolvimento e customização do Megalinux,
+distribuição (baseada no Ubuntu).
+
+O CCL - Controle Computacional da Linha era o sistema responsável por
+todo o processo da montagem dos computadores, dividido em três partes:
+MegaInteg (FreeDos), MegaClone (Linux) e Megacontrol (Django). Meu
+trabalho consistia na manutenção dessas aplicações, adicionando novos
+drivers, monitorando os servidores além de fazer pequenos patches para
+o Megacontrol.
+
+*** 2004 – 2008 - Centro Cultura da UFMG / CCNM ( Belo Horizonte )
+Projeto de Inclusão e Letramento Digital Rede.lê/UFMG /
+Centro de Convergência de Novas Mídias da UFMG (Grupo de Pesquisa / Pontão de Cultura)
+
+Foi onde tudo começou, meu primeiro estágio. Tive contato direto com
+desenvolvimento de sites e software livre. Era responsável por
+encontrar soluções livres para as necessidades do projeto e treinar as
+pessoas para utilizá-los.
+
+[[http://www.institutoembratel.org.br/cursos/curso_ccnm/][Curso Online - CCNM]]
+
+Quando a rede.lê virou um projeto dentro do CCNM, eu virei um dos coordenadores. Participei
+coordenação e elaboração, do design e da implementação das ferramentas, metodologias e sites.
+
+** Atividades complementares
+
+Taturana (Meteor)
+[[https://www.taturanamobi.com.br/][Site do Taturana]] - [[https://github.com/nucleo-digital/plataforma-taturana][Código Fonte]]
+
+- Monitor da disciplina de Educação especial e inclusão - UFRGS
+
+Transportadora gears
+http://PEGAR_SITE
+
+Banda Renascentes
+https://github.com/guilhermecomum/renascentes
+
+Identidade visual FISL 15
+https://github.com/guilhermecomum/fisl15
+
+** Eventos
+- FISL 15/Latinoware (2014) – Palestra Espaços abertos colaborativos
+- FISL 14 (2013) – Palestra Front-end sem dor ( ou quase isso )
+- FISL 14 (2013) – Oficina de Videomapping
+- FISL 14 (2013) – Palestra Incubadora – Interação no teatro mediada por Software Livre
