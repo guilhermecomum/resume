@@ -14,26 +14,25 @@ me permitam contribuir não somente com as minhas skills técnicas mas
 com as experiências e pontos de vista que venho trocando e absorvendo.
 
 ** Formação
-- Pedagogia - UFRGS ( Incompleto )
-- Ciência da Computação - Fumec ( Incompleto )
-- Técnico em informática Gerencial pele Colégio e Faculdade COTEMIG
+ * Pedagogia - UFRGS ( Incompleto )
+ * Ciência da Computação - Fumec ( Incompleto )
+ * Técnico em informática Gerencial pele Colégio e Faculdade COTEMIG
 
 ** Experiência Profissional
 
-*** Atualmente (desde Out/2015) - Object Edge (Porto Alegre)
-[[http://www.objectedge.com/][Object Edge]]
+*** [[http://www.objectedge.com/][Object Edge]] (Desde Out/2015) (Porto Alegre)
 
 HTML, CSS, JavaScript, React, Relay, GraphQL
 
-*** Rent a Local Friend (Jul/2014 - Set/2015) (Rio de Janeiro)
-[[http://rentalocalfriend.com][Rent a Local Friend]]
+
+*** [[http://rentalocalfriend.com][Rent a Local Friend]] (Jul/2014 - Set/2015) (Rio de Janeiro)
 
 HTML, CSS, JavaScript, Ruby, Rails
 
 Desenvolvedor Fullstack e minha primeira experiência com startup
 
-*** Engage (OuiShare) - (Porto Alegre / Europa)
-[[http://ouishare.net/en][OuiShare]] - [[http://github.com/OuiShare/OuiShare][Código Fonte]]
+
+*** Engage ([[http://ouishare.net/en][OuiShare]]) - (Porto Alegre / Europa) - [[http://github.com/OuiShare/OuiShare][Código Fonte]]
 
 HTML, CSS, JavaScript, Ruby, Rails
 
@@ -42,9 +41,8 @@ trabalhar na Rent a Local Friend. Minha primeira experiência com Ruby
 on Rails e a oportunidade de trabalhar com uma equipe espalhada pelo
 globo.
 
-*** Gabinete Digital (2011 - 2013) (Porto Alegre)
+*** [[https://github.com/gabinetedigital/][Gabinete Digital]] (2011 - 2013) (Porto Alegre)
 O Gabinete Digital foi um canal de participação e diálogo entre governo e sociedade.
-[[https://github.com/gabinetedigital/][Código Fonte]]
 
 HTML, CSS, Wordpress, Python, Flask
 
@@ -55,15 +53,12 @@ quanto back end, além de implementar toda a parte front end. Quando
 necessário contribuia com o back-end.
 
 *** memeLab (2011 - 2012) (São Paulo)
-Laboratório de tecnologias interativas.
+HTML, CSS, Javascript, Python, Django
 
-HTML, CSS, Wordpress
 Foram poucos meses de trabalho remoto na memeLab, mas de muito
 aprendizado. Era responsável pela manutenção e correção de bugs de
-alguns sites que eles desenvolveram, além de instalação e manutenção
+algun sites que eles desenvolveram, além de instalação e manutenção
 de servidores.
-
-HTML, CSS, Javascript, Python, Django
 
 Essa parceria resultou em novo projeto realizado em 2012 chamado
 Incubadora - Versão final, que é um Teatro Game onde as pessoas
@@ -74,7 +69,6 @@ desktop.
 [[https://github.com/guilhermecomum/incubadora/][Código Fonte]] - [[http://vimeo.com/62461476][Vídeo]]
 
 *** 2008 - 2011 - Megaware Industrial Ltda (Belo Horizonte)
-Fábrica de computadores
 
 Após quatro anos trabalhando em estruturas do governo, eu queria
 conhecer a iniciativa privada. Assim fui trabalhar na fábrica. Tudo
@@ -104,23 +98,14 @@ Quando a rede.lê virou um projeto dentro do CCNM, eu virei um dos coordenadore
 coordenação e elaboração, do design e da implementação das ferramentas, metodologias e sites.
 
 ** Atividades complementares
-
-Taturana (Meteor)
-[[https://www.taturanamobi.com.br/][Site do Taturana]] - [[https://github.com/nucleo-digital/plataforma-taturana][Código Fonte]]
-
-- Monitor da disciplina de Educação especial e inclusão - UFRGS
-
-Transportadora gears
-http://PEGAR_SITE
-
-Banda Renascentes
-https://github.com/guilhermecomum/renascentes
-
-Identidade visual FISL 15
-https://github.com/guilhermecomum/fisl15
+ * [[https://www.taturanamobi.com.br/][Taturana]] - [[https://github.com/nucleo-digital/plataforma-taturana][Código Fonte]]
+ * Monitor da disciplina de Educação especial e inclusão - UFRGS
+ * [[http://transportador.net/][Transportador.net]]
+ * [[http://www.impulsoti.com.br/][Impulso TI]]
+ * Identidade visual FISL 15 - [[https://github.com/guilhermecomum/fisl15][Código Fonte]]
 
 ** Eventos
-- FISL 15/Latinoware (2014) – Palestra Espaços abertos colaborativos
-- FISL 14 (2013) – Palestra Front-end sem dor ( ou quase isso )
-- FISL 14 (2013) – Oficina de Videomapping
-- FISL 14 (2013) – Palestra Incubadora – Interação no teatro mediada por Software Livre
+ * FISL 15/Latinoware (2014) – Palestra Espaços abertos colaborativos
+ * FISL 14 (2013) – Palestra Front-end sem dor ( ou quase isso )
+ * FISL 14 (2013) – Oficina de Videomapping
+ * FISL 14 (2013) – Palestra Incubadora – Interação no teatro mediada por Software Livre
