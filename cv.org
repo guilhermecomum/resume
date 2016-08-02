@@ -1,3 +1,6 @@
+#+TITLE: Currículo
+#+STARTUP: indent
+
 * Guilherme Guerra de Almeida
 
 Trabalho com tecnologias open source desde 2007. Me sinto motivado
