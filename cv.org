@@ -21,32 +21,35 @@ com as experiências e pontos de vista que venho trocando e absorvendo.
 *HTML*, *CSS*, *JavaScript*, *React*, *Relay*, *GraphQL*
 
 ** [[http://rentalocalfriend.com][Rent a Local Friend]] (Jul/2014 - Set/2015) (Rio de Janeiro)
-
-HTML, CSS, JavaScript, Ruby, Rails
+*HTML*, *Sass*, *JavaScript*, *Ruby*, *Rails*
 
 Desenvolvedor Fullstack e minha primeira experiência com startup
 
 ** [[http://ouishare.net/en][OuiShare]] (Engage) - (Porto Alegre / Europa) - [[http://github.com/OuiShare/OuiShare][Código Fonte]]
+*HTML*, *Sass*, *JavaScript*, *Ruby*, *Rails*
 
-HTML, CSS, JavaScript, Ruby, Rails
-
+#+BEGIN_QUOTE
 Foi um único projeto, mas que me abriu portas e me preparou para
 trabalhar na Rent a Local Friend. Minha primeira experiência com Ruby
 on Rails e a oportunidade de trabalhar com uma equipe espalhada pelo
 globo.
+#+END_QUOTE
 
 ** [[https://github.com/gabinetedigital/][Gabinete Digital]] (2011 - 2013) (Porto Alegre)
-HTML, CSS, Wordpress, Python, Flask
+*HTML*, *Sass*, *JavaScript*, *Python*, *Flask*
 
+#+BEGIN_QUOTE
 Fui responsável por toda a parte visual, desde o layout do site e das
 ferramentas até os banners de divulgação e apresentações. Contribui na
 definição das tecnologias e ferramentas utilizadas tanto em front end
 quanto back end, além de implementar toda a parte front end. Quando
 necessário contribuia com o back-end.
+#+END_QUOTE
 
 ** [[http://memelab.com.br/][memeLab]] (2011 - 2012) (São Paulo)
-HTML, CSS, Javascript, Python, Django
+*HTML*, *Sass*, *JavaScript*, *Python*, *Django*
 
+#+BEGIN_QUOTE
 Foram poucos meses de trabalho remoto na memeLab, mas de muito
 aprendizado. Fui responsável pela manutenção e correção de bugs de
 alguns projetos que eles desenvolveram, além de instalação e manutenção
@@ -57,10 +60,12 @@ Essa parceria resultou em novo projeto realizado em 2012 chamado
 interagem com o espetáculo através dos seus dispositivos móveis. Fui
 responsável pelo desenvolvimento front end das interfaces mobile e
 desktop.
+#+END_QUOTE
 
 [[https://github.com/guilhermecomum/incubadora/][Código Fonte]]
 
-** 2008 - 2011 - Megaware Industrial Ltda (Belo Horizonte)
+**  Megaware Industrial Ltda (2008 - 2011) - (Belo Horizonte)
+
 #+BEGIN_QUOTE
 Após quatro anos trabalhando em estruturas do governo, eu queria
 conhecer a iniciativa privada. Assim fui trabalhar na fábrica. Tudo
@@ -76,7 +81,8 @@ drivers, monitorando os servidores além de fazer pequenos patches para
 o Megacontrol.
 #+END_QUOTE
 
-** 2004 – 2008 - Centro Cultura da UFMG / CCNM ( Belo Horizonte )
+** Centro Cultura da UFMG / CCNM (2004 – 2008) - ( Belo Horizonte )
+#+BEGIN_QUOTE
 Projeto de Inclusão e Letramento Digital Rede.lê/UFMG /
 Centro de Convergência de Novas Mídias da UFMG (Grupo de Pesquisa / Pontão de Cultura)
 
@@ -89,7 +95,7 @@ pessoas para utilizá-los.
 
 Quando a rede.lê virou um projeto dentro do CCNM, eu virei um dos coordenadores. Participei
 coordenação e elaboração, do design e da implementação das ferramentas, metodologias e sites.
-
+#+END_QUOTE
 
 * Atividades complementares
 ** [[https://www.taturanamobi.com.br/][Taturana]] - [[https://github.com/nucleo-digital/plataforma-taturana][Código Fonte]] (Front-end/Freelancer)
