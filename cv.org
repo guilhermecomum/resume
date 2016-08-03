@@ -12,9 +12,9 @@ me permitam contribuir não somente com as minhas skills técnicas mas
 com as experiências e pontos de vista que venho trocando e absorvendo.
 
 * Formação
-** Pedagogia - UFRGS ( Incompleto )
-** Ciência da Computação - Fumec ( Incompleto )
-** Técnico em informática Gerencial pele Colégio e Faculdade COTEMIG
+- Pedagogia - UFRGS ( Incompleto )
+- Ciência da Computação - Fumec ( Incompleto )
+- Técnico em informática Gerencial pele Colégio e Faculdade COTEMIG
 
 * Experiência Profissional
 ** [[http://www.objectedge.com/][Object Edge]] (Desde Out/2015) (Porto Alegre)
@@ -98,14 +98,14 @@ coordenação e elaboração, do design e da implementação das ferramentas
 #+END_QUOTE
 
 * Atividades complementares
-** [[https://www.taturanamobi.com.br/][Taturana]] - [[https://github.com/nucleo-digital/plataforma-taturana][Código Fonte]] (Front-end/Freelancer)
-** Monitor da disciplina de Educação especial e inclusão - UFRGS
-** [[http://transportador.net/][Transportador.net]] (Front-end/Freelancer)
-** [[http://www.impulsoti.com.br/][Impulso TI]] (Front-end/Freelancer)
-** Identidade visual FISL 15 (Designer/Freelancer)- [[https://github.com/guilhermecomum/fisl15][Código Fonte]]
+- [[https://www.taturanamobi.com.br/][Taturana]] - [[https://github.com/nucleo-digital/plataforma-taturana][Código Fonte]] (Front-end/Freelancer)
+- Monitor da disciplina de Educação especial e inclusão - UFRGS
+- [[http://transportador.net/][Transportador.net]] (Front-end/Freelancer)
+- [[http://www.impulsoti.com.br/][Impulso TI]] (Front-end/Freelancer)
+- Identidade visual FISL 15 (Designer/Freelancer)- [[https://github.com/guilhermecomum/fisl15][Código Fonte]]
 
 * Eventos
-** FISL 15/Latinoware (2014) – Palestra Espaços abertos colaborativos
-** FISL 14 (2013) – Palestra Front-end sem dor ( ou quase isso )
-** FISL 14 (2013) – Oficina de Videomapping
-** FISL 14 (2013) – Palestra Incubadora – Interação no teatro mediada por Software Livre
+- FISL 15/Latinoware (2014) – Palestra Espaços abertos colaborativos
+- FISL 14 (2013) – Palestra Front-end sem dor ( ou quase isso )
+- FISL 14 (2013) – Oficina de Videomapping
+- FISL 14 (2013) – Palestra Incubadora – Interação no teatro mediada por Software Livre
