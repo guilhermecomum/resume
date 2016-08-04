@@ -1,0 +1,48 @@
+#+TITLE: Guilherme Guerra
+#+STARTUP: indent
+
+Trabalho com tecnologias open source desde 2007. Me sinto motivado
+pelo conceito de compartilhamento de código e conhecimento. Acredito
+que absorver diversos pontos de vista permite melhorar
+significativamente o trabalho, por isso me sinto melhor em ambientes
+multidisciplinares.
+
+Acreditar e perseguir essas práticas me possibilitou trabalhar em
+diversos setores da economia. Hoje como desenvolvedor Front-end com
+foco em interface busco novos desafios que me permitam contribuir não
+somente com as minhas skills técnicas mas com as experiências e pontos
+de vista que venho trocando e absorvendo.
+
+* Formação
+- Pedagogia - UFRGS ( Incompleto )
+- Ciência da Computação - Fumec ( Incompleto )
+- Técnico em informática Gerencial pele Colégio e Faculdade COTEMIG
+
+* Experiência Profissional
+** [[http://www.objectedge.com/][Object Edge]] (Desde Out/2015) (Porto Alegre)
+Front-end - *HTML*, *CSS*, *JavaScript*, *React*, *Relay*, *GraphQL*
+** [[http://rentalocalfriend.com][Rent a Local Friend]] (Jul/2014 - Set/2015) (Rio de Janeiro)
+Front-end - *HTML*, *Sass*, *JavaScript*, *Ruby*, *Rails*
+** [[http://ouishare.net/en][OuiShare]] (Engage) - (Porto Alegre / Europa) - [[http://github.com/OuiShare/OuiShare][Código Fonte]]
+Front-end - *HTML*, *Sass*, *JavaScript*, *Ruby*, *Rails*
+** [[https://github.com/gabinetedigital/][Gabinete Digital]] (2011 - 2013) (Porto Alegre)
+Front-end/Designer - *HTML*, *Sass*, *JavaScript*, *Python*, *Flask*, *Inkscape*
+** [[http://memelab.com.br/][memeLab]] (2011 - 2012) (São Paulo) - [[https://github.com/guilhermecomum/incubadora/][Código Fonte]]
+Front-end - *HTML*, *Sass*, *JavaScript*, *Python*, *Django*
+**  Megaware Industrial Ltda (2008 - 2011) - (Belo Horizonte)
+Técnico, customização de distro linux, manutenção de servidores
+** Centro Cultura da UFMG / CCNM (2004 – 2008) - ( Belo Horizonte )
+Estagiário > Técnico informática/Coordenação
+
+* Atividades complementares
+- [[https://www.taturanamobi.com.br/][Taturana]] - [[https://github.com/nucleo-digital/plataforma-taturana][Código Fonte]] (Front-end/Freelancer)
+- Monitor da disciplina de Educação especial e inclusão - UFRGS
+- [[http://transportador.net/][Transportador.net]] (Front-end/Freelancer)
+- [[http://www.impulsoti.com.br/][Impulso TI]] (Front-end/Freelancer)
+- Identidade visual FISL 15 (Designer/Freelancer)- [[https://github.com/guilhermecomum/fisl15][Código Fonte]]
+
+* Eventos
+- FISL 15/Latinoware (2014) – Palestra Espaços abertos colaborativos
+- FISL 14 (2013) – Palestra Front-end sem dor ( ou quase isso )
+- FISL 14 (2013) – Oficina de Videomapping
+- FISL 14 (2013) – Palestra Incubadora – Interação no teatro mediada por Software Livre
