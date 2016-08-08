@@ -18,15 +18,31 @@ com as experiências e pontos de vista que venho trocando e absorvendo.
 
 * Experiência Profissional
 ** [[http://www.objectedge.com/][Object Edge]] (Desde Out/2015) (Porto Alegre)
+Front-end
+
+#+BEGIN_QUOTE
+Uma multinacional focada em e-commerce e a maior empresa
+que já trabalhei. Iniciei meus trabalho com manutenção em sites
+adaptativos através da parceria com a [[http://moovweb.com/][moovweb]] e atualmente trabalho
+com projetos internos da empresa desenvolvendo soluções com React, Relay
+e GraphQL.
+#+END_QUOTE
+
 *HTML*, *CSS*, *JavaScript*, *React*, *Relay*, *GraphQL*
 
 ** [[http://rentalocalfriend.com][Rent a Local Friend]] (Jul/2014 - Set/2015) (Rio de Janeiro)
+Front-end
+
+#+BEGIN_QUOTE
+Minha primeira experiência em uma startup, atuei como desenvolvedor
+front-end, mas tive a chance de desenvolver algumas features backend,
+ampliando meu conhecimento com ruby on rails.
+#+END_QUOTE
+
 *HTML*, *Sass*, *JavaScript*, *Ruby*, *Rails*
 
-Desenvolvedor Fullstack e minha primeira experiência com startup
-
-** [[http://ouishare.net/en][OuiShare]] (Engage) - (Porto Alegre / Europa) - [[http://github.com/OuiShare/OuiShare][Código Fonte]]
-*HTML*, *Sass*, *JavaScript*, *Ruby*, *Rails*
+** [[http://ouishare.net/en][OuiShare]] (Engage) - (Porto Alegre / Europa)
+Front-end
 
 #+BEGIN_QUOTE
 Foi um único projeto, mas que me abriu portas e me preparou para
@@ -35,8 +51,10 @@ on Rails e a oportunidade de trabalhar com uma equipe espalhada pelo
 globo.
 #+END_QUOTE
 
+[[http://github.com/OuiShare/OuiShare][Código Fonte]] - *HTML*, *Sass*, *JavaScript*, *Ruby*, *Rails*
+
 ** [[https://github.com/gabinetedigital/][Gabinete Digital]] (2011 - 2013) (Porto Alegre)
-*HTML*, *Sass*, *JavaScript*, *Python*, *Flask*
+Front-end
 
 #+BEGIN_QUOTE
 Fui responsável por toda a parte visual, desde o layout do site e das
@@ -46,8 +64,10 @@ quanto back end, além de implementar toda a parte front end. Quando
 necessário contribuia com o back-end.
 #+END_QUOTE
 
+*HTML*, *Sass*, *JavaScript*, *Python*, *Alasa*
+
 ** [[http://memelab.com.br/][memeLab]] (2011 - 2012) (São Paulo)
-*HTML*, *Sass*, *JavaScript*, *Python*, *Django*
+Front-end
 
 #+BEGIN_QUOTE
 Foram poucos meses de trabalho remoto na memeLab, mas de muito
@@ -62,9 +82,10 @@ responsável pelo desenvolvimento front end das interfaces mobile e
 desktop.
 #+END_QUOTE
 
-[[https://github.com/guilhermecomum/incubadora/][Código Fonte]]
+[[https://github.com/guilhermecomum/incubadora/][Código Fonte]] - *HTML*, *Sass*, *JavaScript*, *Python*, *Django*
 
 **  Megaware Industrial Ltda (2008 - 2011) - (Belo Horizonte)
+Estagiário > Técnico informática
 
 #+BEGIN_QUOTE
 Após quatro anos trabalhando em estruturas do governo, eu queria
@@ -82,6 +103,8 @@ o Megacontrol.
 #+END_QUOTE
 
 ** Centro Cultura da UFMG / CCNM (2004 – 2008) - ( Belo Horizonte )
+Estagiário > Técnico informática/Coordenação
+
 #+BEGIN_QUOTE
 Projeto de Inclusão e Letramento Digital Rede.lê/UFMG /
 Centro de Convergência de Novas Mídias da UFMG (Grupo de Pesquisa / Pontão de Cultura)
