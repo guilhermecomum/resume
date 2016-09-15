@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "Guilherme Guerra de Almeida",
+    "label": "Front-end Developer",
+    "picture": "avatar.jpeg",
+    "email": "guerrinha@comum.org",
+    "summary": "Trabalho com tecnologias open source desde 2007. Me sinto motivado pelo conceito de compartilhamento de código e conhecimento. Acredito que absorver diversos pontos de vista permite melhorar significativamente o trabalho, por isso me sinto melhor em ambientes multidisciplinares. Acreditar e perseguir essas práticas me possibilitou trabalhar em diversos setores da economia. Hoje como desenvolvedor Front-end com foco em interface busco novos desafios que me permitam contribuir não somente com as minhas skills técnicas mas com as experiências e pontos de vista que venho trocando e absorvendo.",
+    "location": {
+      "city": "Porto Alegre",
+      "countryCode": "BR",
+      "region": "Rio Grande do Sul"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "guilhermecomum",
+        "url": "https://github.com/guilhermecomum/"
+      },
+      {
+        "network": "Twitter",
+        "username": "guerrinha",
+        "url": ""
+      },
+      {
+        "network": "Linkedin",
+        "url": "https://br.linkedin.com/in/guilherme-guerra-9177a1b1"
+      }
+    ]
+  },
+
+  "education": [
+    {
+      "institution": "UFRGS",
+      "area": "Pedagogia",
+      "studyType": "Bacharelado",
+      "startDate": "2014-08"
+    },
+    {
+      "institution": "FUMEC - MG",
+      "area": "Ciência da Computação ",
+      "studyType": "Bacharelado",
+      "startDate": "2010-08",
+      "endDate": "2011-08"
+    },
+    {
+      "institution": "COTEMIG - MG",
+      "area": "Informática Gerencial",
+      "studyType": "Técnico",
+      "startDate": "2004-01",
+      "endDate": "2016-12"
+    }
+  ],
+
+  "work": [
+    {
+      "company": "Object Edge",
+      "position": "Front-end",
+      "website": "http://objectedge.com",
+      "startDate": "2015-10",
+      "summary": "Uma multinacional focada em e-commerce e a maior empresa que já trabalhei. Iniciei meus trabalho com manutenção em sites adaptativos através da parceria com a Moovweb e atualmente trabalho com projetos internos da empresa desenvolvendo soluções com React, Relay e GraphQL."
+    },
+    {
+      "company": "Rent a Local Friend",
+      "position": "Front-end",
+      "website": "http://rentalocalfriend.com",
+      "startDate": "2014-07",
+      "endDate": "2015-09",
+      "summary": "Minha primeira experiência em uma startup, atuei como desenvolvedor front-end, mas tive a chance de desenvolver algumas features backend, ampliando meu conhecimento com ruby on rails."
+    },
+    {
+      "company": "Ouishare/Engage",
+      "position": "Front-end",
+      "website": "http://ouishare.com",
+      "startDate": "2013-11",
+      "endDate": "2014-05",
+      "summary": "Foi um único projeto, mas que me abriu portas e me preparou para trabalhar na Rent a Local Friend. Minha primeira experiência com Ruby on Rails e a oportunidade de trabalhar com uma equipe espalhada pelo globo."
+    },
+    {
+      "company": "Gabinete Digital",
+      "position": "Front-end",
+      "website": "https://github.com/gabinetedigital/",
+      "startDate": "2011-09",
+      "endDate": "2013-10",
+      "summary": "Fui responsável por toda a parte visual, desde o layout do site e das ferramentas até os banners de divulgação e apresentações. Contribui na definição das tecnologias e ferramentas utilizadas tanto em front end quanto back end, além de implementar toda a parte front end. Quando necessary contribuia com o back-end."
+    },
+    {
+      "company": "Memelab",
+      "position": "Front-end",
+      "website": "http://memelab.com.br/",
+      "startDate": "2011-07",
+      "endDate": "2011-09",
+      "summary": "Foram poucos meses de trabalho remoto na memeLab, mas de muito aprendizado. Fui responsável pela manutenção e correção de bugs de alguns projetos que eles desenvolveram, além de instalação e manutenção de servidores. \n Essa parceria resultou em novo projeto realizado em 2012 chamado Incubadora - Versão final, que é um Teatro Game onde as pessoas interagem com o espetáculo através dos seus dispositivos móveis. Fui responsável pelo desenvolvimento front end das interfaces mobile e desktop."
+    },
+    {
+      "company": "Megaware Industrial Ltda",
+      "position": "Estagiário - Técnico informática",
+      "startDate": "2008-03",
+      "endDate": "2011-06",
+      "summary": "Após quatro anos trabalhando em estruturas do governo, eu queria conhecer a iniciativa privada. Assim fui trabalhar na fábrica. Tudo que havia aprendido com o uso e o trabalho com softwares livres eu pude aplicar no desenvolvimento e customização do Megalinux, distribuição (baseada no Ubuntu). \n O CCL - Controle Computacional da Linha era o sistema responsável por todo o processo da montagem dos computadores, dividido em três partes: MegaInteg (FreeDos), MegaClone (Linux) e Megacontrol (Django). Meu trabalho consistia na manutenção dessas aplicações, adicionando novos drivers, monitorando os servidores além de fazer pequenos patches para o Megacontrol."
+    },
+    {
+      "company": "Centro Cultural da UFMG / CCNM",
+      "position": "Estagiário - Técnico informática",
+      "startDate": "2004-10",
+      "endDate": "2008-02",
+      "summary": "Foi onde tudo começou, meu primeiro estágio. Tive contato direto com desenvolvimento de sites e software livre. Era responsável por encontrar soluções livres para as necessidades do projeto e treinar as pessoas para utilizá-los. \n Quando a rede.lê virou um projeto dentro do CCNM, eu virei um dos coordenadores. Participei coordenação e elaboração, do design e da implementação das ferramentas, metodologias e sites."
+    }
+  ]
+}
