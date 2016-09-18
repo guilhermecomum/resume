@@ -1,11 +1,18 @@
 #+TITLE: Guilherme Guerra
 #+STARTUP: indent
 
+I work with open source tecnologies since 2007. Sharing code and knowlage guides me.
+I believe it observe and listen with different point of view improve significantly the work,
+thats the reason I'm feel more confortly on multidisciplinary environment.
+Believe and pratice this path lead me to
+
 Trabalho com tecnologias open source desde 2007. Me sinto motivado
 pelo conceito de compartilhamento de código e conhecimento. Acredito
 que absorver diversos pontos de vista permite melhorar
 significativamente o trabalho, por isso me sinto melhor em ambientes
-multidisciplinares. Acreditar e perseguir essas práticas me
+multidisciplinares.
+
+Acreditar e perseguir essas práticas me
 possibilitou trabalhar em diversos setores da economia. Hoje como
 desenvolvedor Front-end com foco em interface busco novos desafios que
 me permitam contribuir não somente com as minhas skills técnicas mas
